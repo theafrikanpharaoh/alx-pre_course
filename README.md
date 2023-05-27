@@ -1,2 +1,2 @@
 My first readme
-cd
+README update from github.com
